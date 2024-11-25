@@ -15,7 +15,7 @@ int main() {
             printf("Thang %d co 30 ngay.\n", month);
             break;
         case 2:
-            printf("Thang %d co 21 ngay.\n");
+            printf("Thang %d co 28 hoac 29 ngay.\n");
             break;
         default:
             printf("So thang sai dinh dang.\n");
